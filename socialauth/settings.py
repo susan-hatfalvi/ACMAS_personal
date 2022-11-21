@@ -200,6 +200,7 @@ CORS_ORIGIN_ALLOW_ALL = True
 
 LOGIN_URL='/admin/login/'
 
+LOGIN_REDIRECT_URL = 'home'
 
 
 #112652574256-jc4lderqlj6pcbondmpm759goa0ufgfb.apps.googleusercontent.com
